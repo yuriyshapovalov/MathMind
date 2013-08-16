@@ -1,0 +1,3 @@
+forester sustain data structures for parsed formulas.
+
+I call it "forester" because data structures will represents a set of trees, and component responsible for control them.
