@@ -1,0 +1,12 @@
+
+
+Crowler element is able to perform search in following sources:
+- TeX
+- MathML
+- PostScript
+- PDF
+
+First of all make sence to crowle following resources:
+- Wikipedia
+- Arxiv.org (does not support direct crowling)
+- ...

@@ -1,0 +1,3 @@
+Parser should be responsible for converting formulas (strings), into appropriate data structure (trees)
+
+

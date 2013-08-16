@@ -1,0 +1,1 @@
+Semantic analyzer is middle layer component which is responsible for analysis of parsed formulas and advised to processor how to put into graph
