@@ -1,6 +1,6 @@
 Category graph will represent categories and morphisms as a set of graphs.
 
-Processor will be resposnible for maintaining this structure.
+Processor will be responsible for maintaining this structure.
 
 Possibly in future make sense to create some instrument for visual representation of the graph, but I'm not sure
-it make big sence, because this data is interesing at first for automated analysis.
+it make big sense, because this data is interesting at first for automated analysis.
